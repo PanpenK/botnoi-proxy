@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/botnoi.js": {
+      "memory": 128
+    }
+  }
+}
